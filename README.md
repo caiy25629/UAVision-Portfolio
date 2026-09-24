@@ -58,7 +58,8 @@
 
 ## 標註流程
 
-<img width="2268" height="4032" alt="8C9890D1-E4EC-4531-A5E5-D25012BCECAF" src="https://github.com/user-attachments/assets/ec1f1fac-7292-4660-8ef8-a3782db74870" />
+
+<img width="537" height="477" alt="螢幕擷取畫面 2026-09-14 155123" src="https://github.com/user-attachments/assets/d91af63f-eaa3-4522-9d5a-73c4ab5c7a8a" />
 
 
 ---
